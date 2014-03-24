@@ -685,6 +685,11 @@ header p {
   font-size: 18px;
   margin: 0px;
 }
+header img {
+  position: absolute;
+  top: 18px;
+  right: 55px;
+}
 
 #banner {
   z-index: 100;
